@@ -75,6 +75,8 @@ payload:
   - '+.sanity.io'
   - '+.typekit.net'
   - '+.t-mobile.com'
+  - '+.3gppnetwork.org'
+  - '+.jibecloud.net'
   - '+.nexitally.com'
   - '+.huacloud.dev'
   - '+.api-flowercloud.com'
