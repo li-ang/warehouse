@@ -55,6 +55,7 @@ payload:
   - '+.pypi.org'
   - '+.python.org'
   - '+.pythonhosted.org'
+  - '+.ubuntu.com'
   # 个人生活相关域名
   - '+.bing.com'
   - '+.deepl.com'
