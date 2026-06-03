@@ -43,6 +43,7 @@ payload:
   - '+.bwbx.io'
   - '+.bloomberg.com'
   - '+.investing.com'
+  - '+.paperswithbacktest.com'
   # 个人开发相关域名
   - '+.brew.sh'
   - '+.docker.com'
