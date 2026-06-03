@@ -44,6 +44,7 @@ payload:
   - '+.bloomberg.com'
   - '+.investing.com'
   - '+.paperswithbacktest.com'
+  - '+.quantpedia.com'
   # 个人开发相关域名
   - '+.brew.sh'
   - '+.docker.com'
