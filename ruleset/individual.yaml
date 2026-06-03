@@ -45,6 +45,7 @@ payload:
   - '+.investing.com'
   - '+.paperswithbacktest.com'
   - '+.quantpedia.com'
+  - '+.quantconnect.com'
   # 个人开发相关域名
   - '+.brew.sh'
   - '+.docker.com'
