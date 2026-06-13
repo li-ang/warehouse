@@ -52,6 +52,7 @@ payload:
   - '+.docker.io'
   - '+.go.dev'
   - '+.golang.org'
+  - '+.npmjs.org'
   - '+.hf.co'
   - '+.huggingface.co'
   - '+.pkg.dev'
