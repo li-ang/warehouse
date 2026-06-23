@@ -1,0 +1,25 @@
+payload:
+  ## >> All .and domains
+  - DOMAIN-SUFFIX,and
+  ## >> All .chrome domains
+  - DOMAIN-SUFFIX,chrome
+  ## >> All .dclk domains
+  - DOMAIN-SUFFIX,dclk
+  ## >> All .gbiz domains
+  - DOMAIN-SUFFIX,gbiz
+  ## >> All .gle domains
+  - DOMAIN-SUFFIX,gle
+  ## >> All .gmail domains
+  - DOMAIN-SUFFIX,gmail
+  ## >> All .goo domains
+  - DOMAIN-SUFFIX,goo
+  ## >> All .goog domains
+  - DOMAIN-SUFFIX,goog
+  ## >> All .google domains
+  - DOMAIN-SUFFIX,google
+  ## >> All .guge domains
+  - DOMAIN-SUFFIX,guge
+  ## >> All .hangout domains
+  - DOMAIN-SUFFIX,hangout
+  ## >> All .nexus domains
+  - DOMAIN-SUFFIX,nexus
