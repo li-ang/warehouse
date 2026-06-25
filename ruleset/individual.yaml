@@ -65,14 +65,13 @@ payload:
   - '+.deepl.com'
   - '+.discord.com'
   - '+.discord.gg'
-  - '+.flyingbird.pro'
   - '+.omnigroup.com'
   - '+.paypal.com'
   - '+.paypalobjects.com'
   - '+.plex.tv'
   - '+.telegram.org'
   - '+.yahoo.com'
-  # 额外的一些需要家加代理的域名
+  # 额外的一些需要加代理的域名
   - '+.b-cdn.net'
   - '+.bootstrapcdn.com'
   - '+.go-mpulse.net'
