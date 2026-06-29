@@ -72,9 +72,10 @@ payload:
   - '+.telegram.org'
   - '+.yahoo.com'
   # 额外的一些需要加代理的域名
-  - '+.b-cdn.net'
-  - '+.bootstrapcdn.com'
-  - '+.go-mpulse.net'
+  - '+.go-mpulse.net' # Akamain CDN 域名
+  - '+.b-cdn.net' # Bunny CDN 域名
+  - '+.bootstrapcdn.com' # BootstrapCDN 域名
+  - '+.aihubmix.com'
   - '+.googletagmanager.com'
   - '+.intercom.io'
   - '+.mediadelivery.net'
@@ -82,7 +83,7 @@ payload:
   - '+.typekit.net'
   - '+.t-mobile.com'
   - '+.3gppnetwork.org'
-  - '+.jibecloud.net'
+  - '+.jibecloud.net' # Google Jibe，为 Verizon、AT&T 和 T-Mobile 的 RCS 服务提供支持
   - '+.nexitally.com'
   - '+.huacloud.dev'
   - '+.api-flowercloud.com'
