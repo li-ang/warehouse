@@ -50,18 +50,12 @@ payload:
   - '+.brew.sh'
   - '+.docker.com'
   - '+.docker.io'
-  - '+.go.dev'
-  - '+.golang.org'
-  - '+.npmjs.org'
-  - '+.hf.co'
-  - '+.huggingface.co'
   - '+.pkg.dev'
   - '+.pypi.org'
   - '+.python.org'
   - '+.pythonhosted.org'
   - '+.ubuntu.com'
   # 个人生活相关域名
-  - '+.bing.com'
   - '+.deepl.com'
   - '+.discord.com'
   - '+.discord.gg'
@@ -76,7 +70,6 @@ payload:
   - '+.b-cdn.net' # Bunny CDN 域名
   - '+.bootstrapcdn.com' # BootstrapCDN 域名
   - '+.aihubmix.com'
-  - '+.googletagmanager.com'
   - '+.intercom.io'
   - '+.mediadelivery.net'
   - '+.sanity.io'
