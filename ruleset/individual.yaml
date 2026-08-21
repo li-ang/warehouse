@@ -55,6 +55,8 @@ payload:
   - '+.python.org'
   - '+.pythonhosted.org'
   - '+.ubuntu.com'
+  - '+.rust-lang.org'
+  - '+.index.crates.io'
   # 个人生活相关域名
   - '+.deepl.com'
   - '+.discord.com'
